@@ -106,6 +106,18 @@ iconProps={{ size: 20, color: '#FF0000' }}
 />
 ```
 
+<img src="https://i.ibb.co/9YnBNF1/pagination.png" alt="pagination" width="200"/>
+
+## Keywords
+
+- react-native
+- pagination
+- ui
+- component
+- react
+- native
+- expo
+
 ## License
 
 This project is licensed under the MIT License.
