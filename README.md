@@ -118,6 +118,14 @@ iconProps={{ size: 20, color: '#FF0000' }}
 - native
 - expo
 
+## Repository
+
+https://github.com/Diego-Fdez/react-native-pagination-ui
+
+## Contributors
+
+- @Diego-Fdez
+
 ## License
 
 This project is licensed under the MIT License.
