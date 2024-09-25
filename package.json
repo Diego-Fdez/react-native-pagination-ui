@@ -7,6 +7,19 @@
   "contributors": [
     "@Diego-Fdez"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diego-Fdez/react-native-pagination-ui"
+  },
+  "keywords": [
+    "react-native",
+    "pagination",
+    "ui",
+    "component",
+    "react",
+    "native",
+    "expo"
+  ],
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
