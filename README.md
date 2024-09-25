@@ -17,7 +17,7 @@ Import the `Pagination` component and use it in your React Native project:
 ```tsx
 import React, { useState } from 'react';
 import { View } from 'react-native';
-import Pagination from 'your-pagination-library';
+import Pagination from 'react-native-pagination-ui';
 
 const App = () => {
   const [currentPage, setCurrentPage] = useState(1);
