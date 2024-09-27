@@ -1,6 +1,6 @@
 {
   "name": "react-native-pagination-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "files": [
@@ -31,7 +31,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build": "tsc && yalc publish && yalc push"
+    "build": "tsc"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.3",

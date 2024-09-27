@@ -1,10 +1,10 @@
 import { TouchableOpacity, View, Text } from 'react-native';
 import { Entypo } from '@expo/vector-icons';
 import { usePagination } from '../../hook';
-import { PaginationViewProps } from '@/src/interfaces';
-import { styles } from '@/src/styles/Pagination.styles';
-import { colors, sizes } from '@/src/constants';
-import { PaginationColorsEnum, PaginationSizesEnum } from '@/src/enums';
+import { PaginationViewProps } from '../../interfaces';
+import { styles } from '../../styles/Pagination.styles';
+import { colors, sizes } from '../../constants';
+import { PaginationColorsEnum, PaginationSizesEnum } from '../../enums';
 
 const Pagination = ({
   total,

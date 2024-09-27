@@ -10,6 +10,10 @@ You can install the component via npm:
 npm install react-native-pagination-ui
 ```
 
+## Dependencies
+
+npm i @expo/vector-icons
+
 ## Usage
 
 Import the `Pagination` component and use it in your React Native project:

@@ -1,4 +1,4 @@
-import { PaginationColorsEnum, PaginationSizesEnum } from '@/src/enums';
+import { PaginationColorsEnum, PaginationSizesEnum } from '../enums';
 
 // Hook usePagination Props
 export interface UsePaginationProps {

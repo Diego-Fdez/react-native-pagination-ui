@@ -2,7 +2,7 @@ import { useState } from 'react';
 import {
   UsePaginationExportsInterface,
   UsePaginationProps,
-} from '@/src/interfaces';
+} from '../interfaces';
 
 const usePagination = ({
   total,
