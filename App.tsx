@@ -1,5 +1,5 @@
-import { Pagination } from './screens';
+import { Pagination } from './src';
 
 export default function App() {
-  return <Pagination initialPage={1} total={20} handlePageChange={() => {}} />;
+  return <Pagination total={20} initialPage={1} handlePageChange={() => {}} />;
 }

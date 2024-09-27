@@ -1,7 +1,13 @@
 {
   "name": "react-native-pagination-ui",
-  "version": "1.0.1",
-  "main": "expo/AppEntry.js",
+  "version": "1.0.3",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "dist/*",
+    "types/*",
+    "src/*"
+  ],
   "license": "MIT",
   "author": "Diego Fernández",
   "contributors": [
@@ -24,7 +30,8 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "build": "tsc && yalc publish && yalc push"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.3",

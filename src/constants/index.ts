@@ -1,4 +1,4 @@
-import { ColorsInterface, SizesInterface } from '@/interfaces';
+import { ColorsInterface, SizesInterface } from '@/src/interfaces';
 
 export const sizes: SizesInterface = {
   sm: {
